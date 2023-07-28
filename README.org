@@ -1,10 +1,9 @@
 * rpm
 
+This library allows you to manipulate RPM packages from CL.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/qitab/rpm.git   |
-| commit  |   |
-| systems | rpm |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/qitab/rpm.git |
+| commit  | dc0eec9                                          |
+| systems | rpm                                              |
+|---------+--------------------------------------------------|
