@@ -7,3 +7,4 @@ This library allows you to manipulate RPM packages from CL.
 | commit  | dc0eec9                                          |
 | systems | rpm                                              |
 |---------+--------------------------------------------------|
+ 
